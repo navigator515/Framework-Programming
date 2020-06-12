@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+	header
+	{
+		margin:20px 10px 40px 10px; 
+		font-family:"Freestyle Script","Mistral";
+		font-size:50px;
+		text-shadow:3px 3px 8px gray;
+		text-align:center;
+	}
+register
+{
+	font-size:20pt;
+}
+	table {
+		border-collapse: collapse;
+	}
+.btn
+{
+	background-color: gray;/* 알이즈웰 블 */
+
+  border: #94CBE5;
+
+  color: white;
+
+  padding: 8px 8px;
+
+  text-align: center;
+
+  text-decoration: none;
+
+  display: inline-block;
+
+  font-size: 15px;
+border-radius:10px;
+  margin: 4px 2px;
+
+  cursor: pointer;
+}
+	th, td {
+		font-size: 15pt;
+		border: 1px solid lightgray;
+		height: 35px;
+		padding: 5px;
+		color: #000000;
+		background-color: skyblue;
+	}
+
+	
+body{
+	font-size: 10pt;
+
+		height: 30px;
+		padding: 5px;
+		color: #000000;
+		background-color: #090823;
+		color:#94CBE5;
+	    font-family: '맑은 고딕', '돋움', '고딕';
+
+	}
